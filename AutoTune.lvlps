@@ -1,13 +1,5 @@
 [ProjectWindow_Data]
-ProjectExplorer.ClassicPosition[String] = "100,-124,794,1238"
-
-[AB_Cache_{56AA9368-84D4-42E1-9CCF-4FA34A518587}]
-Cache_Path[Path] Line0001 = "/C/Users/frc/AppData/Local/Temp/AB_Cache_{56AA9368"
-Cache_Path[Path] Line0002 = "-84D4-42E1-9CCF-4FA34A518587}.txt"
-
-[AB_Cache_{F12754D6-B5E0-496F-B50C-3EDB6F368199}]
-Cache_Path[Path] Line0001 = "/C/Users/frc/AppData/Local/Temp/AB_Cache_{F12754D6"
-Cache_Path[Path] Line0002 = "-B5E0-496F-B50C-3EDB6F368199}.txt"
+ProjectExplorer.ClassicPosition[String] = "100,4,794,1366"
 
 [AB_Cache_{56AA9368-84D4-42E1-9CCF-4FA34A518587}]
 Cache_Path[Path] Line0001 = "/C/Users/Tempe/AppData/Local/Temp/AB_Cache_{56AA93"
